@@ -47,6 +47,7 @@ Moreover the support is very available.
 
 A claim is a protected [worlguard]('https://worldguard.enginehub.org/en/latest/regions/#:~:text=WorldGuard%20lets%20you%20define%20named,flags%2C%20and%20a%20parent%20region.') region where only the owner can interact or build (or everyone added)
 
+
 **![https://cdn.discordapp.com/emojis/750786332485484545.gif?v=1](https://cdn.discordapp.com/emojis/750786332485484545.gif?v=1) How to create a Claim ?**
 
 That's simple !
@@ -60,6 +61,7 @@ Click on the desired size.
 Then simply write the name of your claim in the chat.
 
 Or type **/claim create <name>** and the menu with different size of claims will appear.
+  
 **![https://cdn.discordapp.com/emojis/750786332485484545.gif?v=1](https://cdn.discordapp.com/emojis/750786332485484545.gif?v=1) How to install the plugin ?**
 
 First of all you have to install the dependencies
