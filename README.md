@@ -78,6 +78,8 @@ You modify the config.yml and if needed the language files
 
 
 **NEEDED :**
+
 Worlguard:[ https://dev.bukkit.org/projects/worldguard]('https://dev.bukkit.org/projects/worldguard') (Tested on 7.0.5)
+
 Vault: https://dev.bukkit.org/projects/vault (Tested on 1.7)
 ProtocolLib: https://www.spigotmc.org/resources/protocollib.1997/ ( Tested on 4.5.1)
