@@ -1,3 +1,5 @@
+<div align="center">
+
 ![https://media.discordapp.net/attachments/465937031600537600/803770935609393172/vrev.png](https://media.discordapp.net/attachments/465937031600537600/803770935609393172/vrev.png)
 [![https://media.discordapp.net/attachments/767116591645065228/806581681259020298/Untitled_design_1.png](https://media.discordapp.net/attachments/767116591645065228/806581681259020298/Untitled_design_1.png)]('https://www.notion.so/advancedplugin/Advanced-plugins-29bc3d0f64824639b14213fa0048e490')[![https://media.discordapp.net/attachments/767116591645065228/806582140040773652/Untitled_design_2.png](https://media.discordapp.net/attachments/767116591645065228/806582140040773652/Untitled_design_2.png)]('https://discord.com/invite/V2AaQgc')[![https://media.discordapp.net/attachments/767116591645065228/806582683211792384/Untitled_design_3.png](https://media.discordapp.net/attachments/767116591645065228/806582683211792384/Untitled_design_3.png)]('https://trello.com/c/YWd2FnaW')
 ![https://media.discordapp.net/attachments/465937031600537600/806542264892522526/fiona.png?width=648&height=676](https://media.discordapp.net/attachments/465937031600537600/806542264892522526/fiona.png?width=648&height=676)
@@ -7,10 +9,15 @@
 ![https://media.discordapp.net/attachments/465937031600537600/803770614946201680/advanced00nn00.png](https://media.discordapp.net/attachments/465937031600537600/803770614946201680/advanced00nn00.png)
 
 advancedclaim.admin.delete
+  
 advancedclaim.admin.find
+  
 advancedclaim.admin.purge
+  
 region.flagmenu.all ( to use flags)
+  
 advancedclaim.list
+  
 advancedclaim.claim
 
 
@@ -67,6 +74,7 @@ Or type **/claim create <name>** and the menu with different size of claims will
 First of all you have to install the dependencies
 
 Worlguard: https://dev.bukkit.org/projects/worldguard
+  
 Vault: https://dev.bukkit.org/projects/vault
 
 After you download the advanced claim plugin
@@ -84,4 +92,5 @@ You modify the config.yml and if needed the language files
 Worlguard:[ https://dev.bukkit.org/projects/worldguard]('https://dev.bukkit.org/projects/worldguard') (Tested on 7.0.5)
 
 Vault: https://dev.bukkit.org/projects/vault (Tested on 1.7)
+  
 ProtocolLib: https://www.spigotmc.org/resources/protocollib.1997/ ( Tested on 4.5.1)
